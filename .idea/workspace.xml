@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94f8af25-b071-4f62-93d4-33104501aee5" name="Changes" comment="setup">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/arrays/PlusOneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/arrays/MergeSortedArrayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +67,38 @@
       <recent name="org.example.arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PlusOneTest">
+  <component name="RunManager" selected="JUnit.MergeSortedArrayTest">
+    <configuration name="MergeSortedArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Coding-Challenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.arrays" />
+      <option name="MAIN_CLASS_NAME" value="org.example.arrays.MergeSortedArrayTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSortedArrayTest.merge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Coding-Challenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.arrays" />
+      <option name="MAIN_CLASS_NAME" value="org.example.arrays.MergeSortedArrayTest" />
+      <option name="METHOD_NAME" value="merge" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PlusOneTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Coding-Challenges" />
       <extension name="coverage">
@@ -101,6 +132,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MergeSortedArrayTest" />
+        <item itemvalue="JUnit.MergeSortedArrayTest.merge" />
         <item itemvalue="JUnit.PlusOneTest" />
         <item itemvalue="JUnit.PlusOneTest.plusOne" />
       </list>
@@ -114,7 +147,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693623902401</updated>
-      <workItem from="1693623903669" duration="1663000" />
+      <workItem from="1693623903669" duration="6939000" />
     </task>
     <task id="LOCAL-00001" summary="setup">
       <option name="closed" value="true" />
